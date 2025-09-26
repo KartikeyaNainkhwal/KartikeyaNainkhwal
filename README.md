@@ -61,7 +61,7 @@
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/KartikeyaNainkhwal/count.svg">
+    <img alt="visitors counter" src="https://komarev.com/ghpvc/?username=KartikeyaNainkhwal&label=Profile%20Views&color=blueviolet&style=for-the-badge">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
