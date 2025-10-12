@@ -162,18 +162,6 @@ const kartikeya = {
   <img src="https://github-profile-trophy.vercel.app/?username=KartikeyaNainkhwal&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=2&column=4">
 </div>
 
----
-
-## 📌 **Pinned Repositories**
-
-<div align="center">
-  <a href="https://github.com/KartikeyaNainkhwal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartikeyaNainkhwal&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3" width="49%"/>
-  </a>
-  <a href="https://github.com/KartikeyaNainkhwal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartikeyaNainkhwal&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3" width="49%"/>
-  </a>
-</div>
 
 ---
 
@@ -214,23 +202,6 @@ Other         0 hrs 45 mins  █░░░░░░░░░░░░░░░░
 - 🌟 Reach 1000+ GitHub stars across repositories
 - 💼 Launch a successful Web3 startup
 
----
-
-## 🌟 **GitHub Metrics**
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/KartikeyaNainkhwal?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1&followup=1&lines=1&people=1&projects=1&code=1&activity=1&achievements=1&config.timezone=Asia%2FKolkata&config.animated=true" width="100%">
-</div>
-
----
-
-## 🎨 **Holopin Badges**
-
-<div align="center">
-  <a href="https://holopin.io/@kartikeyanainhkwal">
-    <img src="https://holopin.me/kartikeyanainhkwal" alt="Holopin Badge Board" />
-  </a>
-</div>
 
 ---
 
