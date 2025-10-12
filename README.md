@@ -1,89 +1,123 @@
-<h1 align="center">Hi 👋, I'm Kartikeya Nainkhwal</h1>
-<h3 align="center">Full Stack Developer | CSE Student @ IIT Bhilai</h3>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h1 align="center">
+  <b>Hi there, I'm <a href="https://github.com/KartikeyaNainkhwal">Kartikeya Nainkhwal</a></b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=66CCFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Blockchain+Enthusiast;UX%2FUI+Designer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Web+Developer+💻;Blockchain+%26+Crypto+Enthusiast+🪙;AI%2FML+Explorer+🤖;Lifelong+Learner+🌱;IIT+Bhilai+Student+🎓">
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm currently a **2nd-year CSE student at IIT Bhilai**
-- 💡 Passionate about **Web Development**, **UI/UX**, and **Blockchain**
-- 💬 Ask me about **Next.js**, **Node.js**, **MongoDB**, or **Solana**
-- 🌱 Currently learning **Flutter** and **Cloud Deployment**
-- 🎯 Goal: To build impactful projects that solve real-world problems
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> ***About Me***
+
+<img align="right" width="230px" alt="Dev" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+
+🔭 **Currently working on:** Web development, AI/ML, and blockchain/crypto applications.<br>
+👯 **Open to collaborating on:** Full-stack web apps, blockchain-driven projects, and AI/ML applications.<br>
+🤝 **Seeking guidance in:** Advanced Solana blockchain integration, scalable real-time systems, and AI/ML implementations.<br>
+🌱 **Currently learning:** Solana development, AI/ML techniques, and improving UI/UX design.<br>
+💬 **Ask me about:** Web development, blockchain & crypto, real-time communication apps, and AI/ML.<br>
+⚡ **Fun fact:** I enjoy hitting the gym, playing sports, and broadening my perspective by connecting with people from all walks of life.<br>
+
+<br clear="both"/>
 
 ---
 
-### 🧰 Tech Stack
-
-**Frontend:**  
-`React.js` · `Next.js` · `Tailwind CSS` · `HTML` · `CSS` · `JavaScript`
-
-**Backend:**  
-`Node.js` · `Express.js` · `Hono` · `Prisma` · `MongoDB` · `PostgreSQL`
-
-**Tools & Cloud:**  
-`Git` · `GitHub` · `Vercel` · `Cloudflare` · `Linux` · `Android Studio`
-
-**Others:**  
-`UI/UX` · `Figma` · `Shell Scripting` · `WebRTC` · `Mediasoup`
-
----
-
-### 🧩 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| 💸 **Paytm Clone** | Wallet app with transactions & rollback system | Node.js, React, MongoDB | [View Repo](https://github.com/KartikeyaNainkhwal/Paytm-Clone) |
-| 📝 **Medium Clone** | Blogging platform with authentication & publishing | Node.js, React, Prisma, PostgreSQL | [View Repo](https://github.com/KartikeyaNainkhwal/Medium-Clone) |
-| 💬 **Real-Time Chat App** | Messaging app with live chat & groups | Next.js, Node.js, Socket.io | [View Repo](https://github.com/KartikeyaNainkhwal/RealTimeChat-App) |
-| 🎥 **Netflix Clone** | Users can upload & stream movies online | Next.js, MongoDB | [View Repo](https://github.com/KartikeyaNainkhwal/Netflix-Clone) |
-
----
-
-### 🌍 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/kartikeya-nainkhwal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/kartikeya-nainkhwal-6493402b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kartikeyak@iitbhilai.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/KartikeyaNainkhwal" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧠 My Overall Dev Metrics
+## 💻 **Tech Arsenal**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KartikeyaNainkhwal/KartikeyaNainkhwal/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,web3,solidity,aws,docker,vercel,render,python,pytorch,sklearn,numpy,pandas,matplotlib,git,github&theme=dark" />
 </p>
 
 ---
 
-### 🏆 GitHub Stats & Activity
+## 📊 **GitHub Stats & Activity**
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikeyaNainkhwal&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikeyaNainkhwal&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com?user=KartikeyaNainkhwal&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KartikeyaNainkhwal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaNainkhwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaNainkhwal&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> "The best way to predict the future is to create it." – Peter Drucker
+## 📈 **Developer Activity Dashboard**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikeyaNainkhwal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikeyaNainkhwal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KartikeyaNainkhwal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KartikeyaNainkhwal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyaNainkhwal&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
+
+## 🔢 **Contribution & Commit Graphs**
+
 <p align="center">
-  <i>✨ Built with passion by Kartikeya Nainkhwal ✨</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaNainkhwal&bg_color=0d1117&color=00FFB3&line=00FFB3&point=ffffff&area=true&hide_border=true" />
 </p>
+
+---
+
+## 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KartikeyaNainkhwal&theme=dracula&no-frame=true&no-bg=true&margin-w=10">
+</p>
+
+---
+
+## ✍️ **Inspiring Dev Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+---
+
+## 🔝 **Top Contributed Repositories**
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=KartikeyaNainkhwal&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 🧠 **My Overall Dev Metrics**
+<p align="center">
+  <img src="https://github-profile-metrics.vercel.app/api/KartikeyaNainkhwal?theme=tokyonight" />
+</p>
+
+---
+
+## 👁‍🗨 **Profile Insights**
+<p align="center">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=KartikeyaNainkhwal&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
