@@ -1,4 +1,3 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kartikeya%20Nainkhwal&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer%20|%20Blockchain%20|%20AI/ML&descSize=16&descAlignY=51" width="100%"/>
@@ -174,21 +173,6 @@ const kartikeya = {
   <a href="https://github.com/KartikeyaNainkhwal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KartikeyaNainkhwal&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3" width="49%"/>
   </a>
-</div>
-
----
-
-## 💡 **Latest Projects Showcase**
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🚀 **Web3 DApp** | Decentralized application on Solana | Solana, Rust, React | 🟢 Active |
-| 🤖 **AI Assistant** | ML-powered chatbot | Python, PyTorch, NLP | 🟡 In Progress |
-| 🌐 **Full Stack App** | Real-time collaboration tool | Next.js, WebSocket, MongoDB | 🟢 Active |
-| ⛓️ **Blockchain Explorer** | Custom chain analytics | Web3.js, Node.js, PostgreSQL | 🔴 Planning |
-
 </div>
 
 ---
