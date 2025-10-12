@@ -50,17 +50,23 @@
 ---
 
 ## 📊 **GitHub Stats**
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikeyaNainkhwal&show_icons=true&theme=tokyonight&hide_border=false" />
   <img height="165" src="https://streak-stats.demolab.com?user=KartikeyaNainkhwal&theme=tokyonight&hide_border=false" />
 </p>
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaNainkhwal&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
----
+### 📈 **Contribution Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaNainkhwal&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyaNainkhwal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=KartikeyaNainkhwal&theme=tokyonight" />
+</p>
 
 ## 🏆 **Achievements**
 
