@@ -67,6 +67,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=KartikeyaNainkhwal&theme=tokyonight" />
 </p>
 
+
+---
+
+## 🪙 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@kartikeyanainkhwal">
+    <img src="https://holopin.io/api/user/board?user=kartikeyanainkhwal" alt="@kartikeyanainkhwal's Holopin board" />
+  </a>
+</p>
+
+---
+
 ## 🏆 **Achievements**
 
 <p align="center">
