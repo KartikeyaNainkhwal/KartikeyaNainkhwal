@@ -68,17 +68,22 @@
 </p>
 
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🪙 Holopin Badges
+## 🪙 Holopin – Hacktoberfest Badges
 
 <p align="center">
   <a href="https://holopin.io/@kartikeyanainkhwal">
-    <img src="https://holopin.io/api/user/board?user=kartikeyanainkhwal" alt="@kartikeyanainkhwal's Holopin board" />
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="200" alt="Hacktoberfest 2025 Level 5 Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://holopin.io/@kartikeyanainkhwal">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="200" alt="Hacktoberfest 2025 Badge" />
   </a>
 </p>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 ## 🏆 **Achievements**
 
