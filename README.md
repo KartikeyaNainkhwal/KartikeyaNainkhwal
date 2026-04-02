@@ -1,48 +1,51 @@
-<div align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-```
-██╗  ██╗ █████╗ ██████╗ ████████╗██╗██╗  ██╗███████╗██╗   ██╗ █████╗
-██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝██╔════╝╚██╗ ██╔╝██╔══██╗
-█████╔╝ ███████║██████╔╝   ██║   ██║█████╔╝ █████╗   ╚████╔╝ ███████║
-██╔═██╗ ██╔══██║██╔══██╗   ██║   ██║██╔═██╗ ██╔══╝    ╚██╔╝  ██╔══██║
-██║  ██╗██║  ██║██║  ██║   ██║   ██║██║  ██╗███████╗   ██║   ██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
-```
+<h1 align="center">
+  <b>Hey, I'm <a href="https://github.com/KartikeyaNainkhwal">Kartikeya Nainkhwal</a></b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-### Full-Stack Engineer · IIT Bhilai · Building products people pay for
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Full-Stack+SaaS+Developer+%F0%9F%9A%80;Building+products+people+actually+pay+for+%F0%9F%92%B3;AI+%2B+Payments+%2B+Real-time+%E2%9A%A1;IIT+Bhilai+%E2%80%94+CSE+2023%E2%80%932027+%F0%9F%8E%93">
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portolio-black.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeya-nainkhwal-6493402b0/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeyak@iitbhilai.ac.in)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-</div>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **About Me**
 
----
-
-## `whoami`
+<img align="right" width="230px" alt="Dev" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
 ```typescript
 const kartikeya = {
-  role:       "Full-Stack SaaS Developer",
-  institute:  "IIT Bhilai — B.Tech CSE (2023–2027)",
-  stack:      ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "Prisma"],
-  currently:  "Building ReviewBot · Freelancing on Upwork · Placement prep",
-  strength:   "Turning complex backend logic into clean, deployed products",
-  contact:    "kartikeyak@iitbhilai.ac.in",
+  role:      "Full-Stack SaaS Developer",
+  college:   "IIT Bhilai — B.Tech CSE (2023–2027)",
+  stack:     ["Next.js", "TypeScript", "Node.js", "PostgreSQL"],
+  building:  "ReviewBot — AI code review bot for GitHub/GitLab",
+  strength:  "Auth · Payments · Real-time · Deployed products",
+  open_to:   "SDE Internships · Freelance contracts",
 };
 ```
 
-I don't just build demos — I build things with **auth, payments, real-time, and actual users.**  
-From a Kanban SaaS with Stripe billing to an AI code review bot that posts inline PR comments — production is the only mode I know.
+🔭 **Currently building:** [ReviewBot](https://github.com/KartikeyaNainkhwal/reviewbot) — AI-powered PR reviewer as a GitHub Action<br>
+🧩 **Flagship project:** [Nexus](https://github.com/KartikeyaNainkhwal/Nexus) — Multi-tenant B2B SaaS (15k+ lines, Stripe + Pusher + RBAC)<br>
+💳 **Real integrations:** Stripe · Razorpay · Pusher · BullMQ · Groq · Claude<br>
+🌱 **Currently learning:** System design · DSA · LLM tool-use patterns<br>
+⚡ **Fun fact:** I hit the gym as hard as I hit deadlines<br>
 
----
+<br clear="both"/>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-### 🤖 [ReviewBot](https://github.com/KartikeyaNainkhwal/reviewbot) — AI Code Review Bot
-> *The project I'm most proud of*
+<table>
+<tr>
+<td width="50%">
 
-An automated Senior Developer for your GitHub/GitLab workflow. Plugs in with 3 lines of YAML.
+### 🤖 [ReviewBot](https://github.com/KartikeyaNainkhwal/reviewbot)
+**AI Code Review Bot — GitHub Action + App**
+
+Plug into any repo in 3 lines of YAML. Parses git diffs → sends to Claude/Groq → posts **inline PR comments** with one-click fix suggestions → blocks merges on critical issues.
 
 ```yaml
 - uses: KartikeyaNainkhwal/reviewbot@v1
@@ -51,91 +54,135 @@ An automated Senior Developer for your GitHub/GitLab workflow. Plugs in with 3 l
     anthropic-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
 ```
 
-**What it does:** Parses git diffs → sends to Claude/Groq → posts inline PR comments with one-click fix suggestions → applies severity labels → blocks merges on critical issues.
+`TypeScript` `BullMQ` `Redis` `Octokit` `Docker` `GitHub Actions`
 
-`TypeScript` `Express` `BullMQ` `Redis` `PostgreSQL` `Prisma` `Octokit` `Docker` `GitHub Actions`
+</td>
+<td width="50%">
 
----
+### 🧩 [Nexus](https://github.com/KartikeyaNainkhwal/Nexus)
+**Enterprise B2B SaaS — 15,000+ lines**
 
-### 🧩 [Nexus](https://github.com/KartikeyaNainkhwal/Nexus) — Enterprise B2B SaaS Platform
-> *15,000+ lines · 20+ DB models · 27 API route groups*
+Multi-tenant team OS — Linear + Notion + Toggl in one codebase.
 
-Multi-tenant team operating system — think Linear + Notion + Toggl in one codebase.
+- 🔐 NextAuth v5 · 3-tier RBAC · OAuth
+- 📊 Kanban DnD · Pusher real-time · optimistic UI
+- 💳 Stripe + Razorpay · webhooks · subscriptions
+- 🤖 Groq AI streaming · doc → task extraction
+- 📝 Tiptap editor · invoicing · time tracking
 
-| Module | What's inside |
-|--------|--------------|
-| 🔐 Auth & RBAC | NextAuth v5 · OAuth · 3-tier org/project roles |
-| 📊 Project Management | Kanban (DnD) · real-time via Pusher · optimistic UI + rollback |
-| 📝 Docs | Tiptap block editor · AI action-item extraction → Kanban push |
-| 💳 Payments | Stripe + Razorpay dual-gateway · webhooks · subscription tiers |
-| ⏱️ Finance Suite | Invoicing pipeline · expense tracking · time entries · CRM |
+`Next.js 14` `TypeScript` `PostgreSQL` `Prisma` `Pusher` `Stripe`
 
-`Next.js 14` `TypeScript` `PostgreSQL` `Prisma` `Pusher` `Stripe` `Razorpay` `Groq AI` `Framer Motion`
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🏕️ [Whispering Pines](https://github.com/KartikeyaNainkhwal/whispering-pines)
+**Luxury Glamping Booking Platform**
 
-### 🏕️ [Whispering Pines](https://github.com/KartikeyaNainkhwal/whispering-pines) — Luxury Glamping Booking Platform
-Full booking flow with Stripe payments, admin dashboard, availability management, and Railway backend.
+Full booking pipeline with Stripe payments, admin dashboard, availability management.
 
-`React` `Node.js` `Express` `MongoDB` `Stripe` `Railway` `Vercel`
+`React` `Node.js` `Express` `MongoDB` `Stripe` `Railway`
 
----
+</td>
+<td width="50%">
 
-### 🛒 [Aerolith](https://github.com/KartikeyaNainkhwal/AEROLITH) — E-Commerce Platform
-3D product UI via Spline, Razorpay checkout, Twilio WhatsApp order notifications, Cloudinary media.
+### 🛒 [Aerolith](https://github.com/KartikeyaNainkhwal/AEROLITH)
+**E-Commerce with 3D UI**
 
-`Next.js` `Razorpay` `Twilio` `Cloudinary` `Spline 3D` `Railway`
+Spline 3D product viewer, Razorpay checkout, Twilio WhatsApp order notifications.
 
----
+`Next.js` `Razorpay` `Twilio` `Cloudinary` `Spline 3D`
 
-### 🏥 [HealthAxis](https://github.com/KartikeyaNainkhwal/HealthAxis) — Healthcare Booking System
-Three-role auth (Patient · Doctor · Admin), Razorpay payments, Google OAuth, appointment scheduling.
+</td>
+</tr>
+</table>
 
-`React` `Node.js` `MongoDB` `Razorpay` `Google OAuth`
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
----
+## 💻 Tech Stack
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,prisma,redis,docker,aws,vercel,tailwind,git,github,python&theme=dark" />
+</p>
 
-```
-Frontend    │ React · Next.js 14 · TypeScript · Tailwind CSS · Framer Motion
-Backend     │ Node.js · Express · Prisma ORM · REST APIs · Server Actions
-Databases   │ PostgreSQL · MongoDB · Redis
-Payments    │ Stripe · Razorpay (webhooks, subscriptions, invoicing)
-Real-time   │ Pusher WebSockets · BullMQ job queues
-AI/LLM      │ Groq SDK · Anthropic Claude · Vercel AI SDK (streaming)
-DevOps      │ Docker · GitHub Actions · Vercel · Railway · AWS
-Auth        │ NextAuth v5 · JWT · OAuth 2.0 · RBAC
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF"/>
+  <img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikeyaNainkhwal&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img height="165" src="https://streak-stats.demolab.com?user=KartikeyaNainkhwal&theme=tokyonight&hide_border=false" />
+</p>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaNainkhwal&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KartikeyaNainkhwal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Streak](https://streak-stats.demolab.com?user=KartikeyaNainkhwal&theme=tokyonight&hide_border=true)
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaNainkhwal&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaNainkhwal&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyaNainkhwal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=KartikeyaNainkhwal&theme=tokyonight" />
+</p>
 
-</div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
----
+## 🏅 Open Source & Achievements
 
-## 🏅 Open Source
+<p align="center">
+  <a href="https://holopin.io/@kartikeyanainkhwal">
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="180" alt="Hacktoberfest 2025 Level 5" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://holopin.io/@kartikeyanainkhwal">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="180" alt="Hacktoberfest 2025" />
+  </a>
+</p>
 
-[![Hacktoberfest 2025 Level 5](https://assets.holopin.io/hf2025levels/lvl5-human.webp)](https://holopin.io/@kartikeyanainkhwal)
+<p align="center">
+  <b>Hacktoberfest 2025 — Level 5</b> &nbsp;·&nbsp; 4+ quality PRs merged to open source repos
+</p>
 
-**Hacktoberfest 2025 — Level 5** · Completed 4+ quality PRs to open source repositories
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KartikeyaNainkhwal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
+</p>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center">
+## 🌐 Connect with Me
 
-*Currently open to SDE internships and freelance full-stack contracts*  
-**[kartikeyak@iitbhilai.ac.in](mailto:kartikeyak@iitbhilai.ac.in)**
+<p align="center">
+  <a href="https://linkedin.com/in/kartikeya-nainkhwal-6493402b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kartikeyak@iitbhilai.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://my-portolio-black.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KartikeyaNainkhwal&label=Profile+Views&color=0891b2&style=flat)
+<p align="center"><i>Open to SDE internships and freelance full-stack contracts</i></p>
 
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=KartikeyaNainkhwal&label=Profile%20Views&color=00FFB3&style=for-the-badge" alt="profile views"/>
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
