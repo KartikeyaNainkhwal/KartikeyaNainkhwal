@@ -38,65 +38,25 @@ const kartikeya = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🤖 [ReviewBot](https://github.com/KartikeyaNainkhwal/reviewbot)
-**AI Code Review Bot — GitHub Action + App**
+| 🤖 [ReviewBot](https://github.com/KartikeyaNainkhwal/reviewbot) | 🧩 [Nexus](https://github.com/KartikeyaNainkhwal/Nexus) |
+|---|---|
+| **AI Code Review Bot — GitHub Action + App** | **Enterprise B2B SaaS — 15,000+ lines** |
+| Plug into any repo in 3 lines of YAML. Parses git diffs → Claude/Groq → **inline PR comments** with one-click fixes → blocks merges on critical issues. | Multi-tenant team OS — Linear + Notion + Toggl in one codebase. Real multi-tenancy, not fake. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white) |
 
-Plug into any repo in 3 lines of YAML. Parses git diffs → sends to Claude/Groq → posts **inline PR comments** with one-click fix suggestions → blocks merges on critical issues.
+</div>
 
-```yaml
-- uses: KartikeyaNainkhwal/reviewbot@v1
-  with:
-    github-token: ${{ secrets.GITHUB_TOKEN }}
-    anthropic-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
-```
+<div align="center">
 
-`TypeScript` `BullMQ` `Redis` `Octokit` `Docker` `GitHub Actions`
+| 🏕️ [Whispering Pines](https://github.com/KartikeyaNainkhwal/whispering-pines) | 🛒 [Aerolith](https://github.com/KartikeyaNainkhwal/AEROLITH) |
+|---|---|
+| **Luxury Glamping Booking Platform** | **E-Commerce with 3D UI** |
+| Full booking pipeline with Stripe payments, admin dashboard, availability management and Railway backend. | Spline 3D product viewer, Razorpay checkout, Twilio WhatsApp order notifications, Cloudinary media. |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
 
-</td>
-<td width="50%">
-
-### 🧩 [Nexus](https://github.com/KartikeyaNainkhwal/Nexus)
-**Enterprise B2B SaaS — 15,000+ lines**
-
-Multi-tenant team OS — Linear + Notion + Toggl in one codebase.
-
-- 🔐 NextAuth v5 · 3-tier RBAC · OAuth
-- 📊 Kanban DnD · Pusher real-time · optimistic UI
-- 💳 Stripe + Razorpay · webhooks · subscriptions
-- 🤖 Groq AI streaming · doc → task extraction
-- 📝 Tiptap editor · invoicing · time tracking
-
-`Next.js 14` `TypeScript` `PostgreSQL` `Prisma` `Pusher` `Stripe`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏕️ [Whispering Pines](https://github.com/KartikeyaNainkhwal/whispering-pines)
-**Luxury Glamping Booking Platform**
-
-Full booking pipeline with Stripe payments, admin dashboard, availability management.
-
-`React` `Node.js` `Express` `MongoDB` `Stripe` `Railway`
-
-</td>
-<td width="50%">
-
-### 🛒 [Aerolith](https://github.com/KartikeyaNainkhwal/AEROLITH)
-**E-Commerce with 3D UI**
-
-Spline 3D product viewer, Razorpay checkout, Twilio WhatsApp order notifications.
-
-`Next.js` `Razorpay` `Twilio` `Cloudinary` `Spline 3D`
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -108,7 +68,7 @@ Spline 3D product viewer, Razorpay checkout, Twilio WhatsApp order notifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF"/>
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logoColor=3395FF"/>
   <img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white"/>
   <img src="https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logoColor=white"/>
@@ -181,7 +141,9 @@ Spline 3D product viewer, Razorpay checkout, Twilio WhatsApp order notifications
 
 <p align="center">
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-  <img src="https://komarev.com/ghpvc/?username=KartikeyaNainkhwal&label=Profile%20Views&color=00FFB3&style=for-the-badge" alt="profile views"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KartikeyaNainkhwal&label=Profile+Views&color=00FFB3&style=for-the-badge" alt="profile views"/>
+  &nbsp;
   <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </p>
 
